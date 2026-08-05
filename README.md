@@ -6,14 +6,13 @@
 
 ### 👤 About My Journey
 * 📍 **Based in:** Philippines
-* 🎯 **Current Focus:** [What you are studying or working on right now]
-* 🌱 **Favorite bible verse:** [When the time is right, I, the Lord, will make it happen]
+* 🎯 **Current Focus:** Looking for a job for that accepts fresh graduates
+* 🌱 **Favorite bible verse:** Isaiah 60:22 - When the time is right, I, the Lord, will make it happen
 
 ---
 
 ### 🎨 My Passions & Interests
-* 📸 **Photography / Art:** [Nature photography and Sunsets]
-* 📚 **Reading & Learning:** Currently reading *[Book Title]*
+* 📸 **Photography / Art:** Nature photography and Sunsets
 * ✈️ **Travel & Exploration:** Love exploring new places and cultures
 
 ---
@@ -22,8 +21,8 @@
 - [ ] Learn a new language
 - [ ] Be financially stable
 - [ ] Travel the world
-- [ ] Build a daily reading habit
-
+- [ ] Bought my own house
+- [ ] Have a business
 ---
 
 ### 📬 Connect with Me
