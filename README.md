@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Hazel!
 
-<!--
-**heyzel25/heyzel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Proverbs 3:5-6 – Trust in the Lord with all your heart and lean not on your own understanding."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 About My Journey
+* 📍 **Based in:** Philippines
+* 🎯 **Current Focus:** [What you are studying or working on right now]
+* 🌱 **Favorite bible verse:** [When the time is right, I, the Lord, will make it happen]
+
+---
+
+### 🎨 My Passions & Interests
+* 📸 **Photography / Art:** [Nature photography and Sunsets]
+* 📚 **Reading & Learning:** Currently reading *[Book Title]*
+* ✈️ **Travel & Exploration:** Love exploring new places and cultures
+
+---
+
+### 📈 Current Life Goals
+- [ ] Learn a new language
+- [ ] Be financially stable
+- [ ] Travel the world
+- [ ] Build a daily reading habit
+
+---
+
+### 📬 Connect with Me
+- 📸 Instagram: [@itsme.hazel25](https://instagram.com)
+- ✉️ Email: zelvergara25@gmail.com
